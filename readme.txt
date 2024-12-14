@@ -9,3 +9,4 @@ git commit -m "wrote a readme file"
 git commit命令执行成功后会告诉你，1 file changed：1个文件被改动（我们新添加的readme.txt文件）；2 insertions：插入了两行内容（readme.txt有两行内容）。
 My stupid boss still prefers SVN.
 git checkout -- readme.txt
+hello git
