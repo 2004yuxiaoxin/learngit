@@ -10,3 +10,4 @@ git commit命令执行成功后会告诉你，1 file changed：1个文件被改�
 My stupid boss still prefers SVN.
 git checkout -- readme.txt
 hello git
+Creating a new branch is quick.
